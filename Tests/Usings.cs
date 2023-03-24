@@ -1,0 +1,9 @@
+global using AutoFixture;
+global using FluentAssertions;
+global using Moq;
+global using NUnit.Framework;
+global using SV.Demo.Application.Data;
+global using SV.Demo.Application.Interfaces;
+global using SV.Demo.Application.Models;
+global using SV.Demo.Application.Repositories;
+global using SV.Demo.Application.Services;
